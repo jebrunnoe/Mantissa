@@ -1,4 +1,5 @@
 # Mantissa Theme
+![Mantissa Icon](https://github.com/jebrunnoe/Mantissa/blob/main/MANTISSA.png?raw=true)
 
 ## Precision Color Theme for VS Code 
 
@@ -21,6 +22,8 @@
 
 **Enjoy!**
 
+### Mantissa Dark Preview
 ![Mantissa Dark Preview](https://github.com/jebrunnoe/Mantissa/blob/main/mantissa_dark.png?raw=true)
 
+### Mantissa Light Preview
 ![Mantissa Light Preview](https://github.com/jebrunnoe/Mantissa/blob/main/mantissa_light.png?raw=true)
