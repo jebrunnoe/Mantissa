@@ -20,3 +20,7 @@
 * Minimal syntax inspired by [Alabaster](https://github.com/p00f/alabaster.nvim).
 
 **Enjoy!**
+
+![Mantissa Dark Preview](https://github.com/jebrunnoe/Mantissa/blob/main/mantissa_dark.png?raw=true)
+
+![Mantissa Light Preview](https://github.com/jebrunnoe/Mantissa/blob/main/mantissa_light.png?raw=true)
